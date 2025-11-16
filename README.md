@@ -66,4 +66,4 @@ MIT
 
 ---
 
-*Inspired by GitHub Copilot Chat.*
+*Jaseci Labs*
